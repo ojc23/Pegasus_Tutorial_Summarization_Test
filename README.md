@@ -2,10 +2,10 @@
 
 When time come to summarize infoirmation this activity requied time and cncentratino. using macihine learning to help and perform this task can be an assess.
 
-Output Sapmle:
+**Output text:**
 Natural Language Processing and How Natural Language Processing is Changing the Face of Data Analytics have been used in Data Science in recent years.
 
-Input text
+**Input text**
 https://analyticsindiamag.com/how-to-paraphrase-text-using-pegasus-transformer/ 
 
 In recent years, if you have explored Data Science, you must have heard or come across the term “Natural Language Processing” and “How Natural Language Processing is changing the face of Data Analytics”. But, what exactly is Natural Language Processing? Natural language refers to the way humans communicate and connect. Today, we are surrounded by text and voice, and text is the two most essential ways of communicating with each other and the society around us. Hence a lot of unstructured data in the form of Voice and Text is generated daily. Noticing the sheer importance of such data types, we must have methods to understand and reason about the natural language present in it, just like we have for other types of data. Natural language processing or NLP refers to the branch of computer science and artificial intelligence, both of which can give computers the ability to understand the text and spoken words the same way human beings can. 
