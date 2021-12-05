@@ -1,4 +1,4 @@
-# Pegasus_Tutorial_Summarization_Test
+# Automatic Summarization Using Machine Learning
 
 When time come to summarize information, this activity requied time and concentration. Using machine learning to help and perform this task can be an assess.
 
